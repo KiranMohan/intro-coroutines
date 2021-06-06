@@ -29,7 +29,6 @@ fun loadContributorsCallbacks(service: GitHubService, req: RequestData, updateRe
             }
         }
 
-        // TODO: Why this code doesn't work? How to fix that?
     }
 }
 
